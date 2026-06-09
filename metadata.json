@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Life",
+  "description": "An AI-powered school life assistant featuring NEIS school meals, timetables, calendar events, Gemini-generated nutrition insights, and a smart scheduling calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
